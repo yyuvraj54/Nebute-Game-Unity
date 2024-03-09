@@ -1,0 +1,16 @@
+# Unity generated files
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ibrary/
+.vscode/
+.vs/
+*.userprefs
+*.csproj
+*.sln
+*.pidb
+*.pidb.meta
+
+# Visual Studio Code generated files
+.vscode/
+

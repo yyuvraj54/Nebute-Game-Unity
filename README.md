@@ -14,6 +14,18 @@ Nebute is an exciting 2D platformer game developed using Unity and written in C#
 
 In Nebute, your objective is to guide the character through each level while overcoming obstacles and collecting fruits along the way. Beware of traps and hazards that can hinder your progress. With increasing difficulty, each level presents a new set of challenges, keeping the gameplay fresh and exciting.
 
+## Preview
+
+<div style="overflow-x: auto; white-space: nowrap; padding: 10px; background-color: #f0f0f0; border-radius: 15px;">
+  <img src="https://github.com/yyuvraj54/Nebute-Game-Unity/blob/main/Demo/photo2.png" alt="Nebute Game" style="width: 300px; height: auto; margin-right: 10px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <img src="https://github.com/yyuvraj54/Nebute-Game-Unity/blob/main/Demo/photo3.png" alt="Nebute Game" style="width: 300px; height: auto; margin-right: 10px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <img src="https://github.com/yyuvraj54/Nebute-Game-Unity/blob/main/Demo/photo4.png" alt="Nebute Game" style="width: 300px; height: auto; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+</div>
+
+
+## Video Demo
+[![Game Demo](https://img.youtube.com/vi/O5PPHugLrg8/0.jpg)](https://www.youtube.com/watch?v=O5PPHugLrg8)
+
 ## How to Play
 
 1. **Controls:**
@@ -28,6 +40,7 @@ In Nebute, your objective is to guide the character through each level while ove
 3. **Scoring:**
    - Collect as many fruits as possible to increase your score.
    - Compete with friends and other players for the highest score.
+
 
 ## Installation
 

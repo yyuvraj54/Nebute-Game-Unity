@@ -1,7 +1,7 @@
 # Nebute
 
 Nebute is an exciting 2D platformer game developed using Unity and written in C#. Navigate through multiple levels filled with challenges, traps, and collectibles while enjoying a fun and immersive gaming experience.
-
+Supported in Android and Windows
 ## Features
 
 - **Multiple Levels:** Traverse through various levels, each with its unique challenges and obstacles.
